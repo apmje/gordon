@@ -1,0 +1,25 @@
+{
+  "name": "gordon",
+  "version": "1.0.0",
+  "description": "gordon",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/apmje/gordon.git"
+  },
+  "keywords": [
+    "gordon"
+  ],
+  "author": "Anthony McCormick",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/apmje/gordon/issues"
+  },
+  "homepage": "https://github.com/apmje/gordon#readme",
+  "dependencies": {
+    "bootstrap": "^4.0.0-alpha.6"
+  }
+}
